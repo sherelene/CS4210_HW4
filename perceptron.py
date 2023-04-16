@@ -4,7 +4,7 @@
 # SPECIFICATION: Compare algorithm performances and test which combination of two hyperparameters (learning rate and shuffle)
 # leads to the best prediction performance for each classifier
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: 1 hour
+# TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
